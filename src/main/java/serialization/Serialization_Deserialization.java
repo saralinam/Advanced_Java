@@ -5,7 +5,7 @@ import java.io.*;
 public class Serialization_Deserialization {
     public static void main(String[] args) {
 
-        // writeObject();
+//         writeObject();
         readObjects();
 
     }
